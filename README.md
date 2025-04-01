@@ -12,10 +12,6 @@ Implementasi slicing desain Figma ke HTML/CSS untuk tugas ke-3 Bootcamp Hariseni
 - Tailwind CSS untuk styling
 - Bun sebagai runtime environment
 
-## 🖥️ Preview
-
-![Preview Aplikasi](https://docs.google.com/presentation/d/1EoePO3kEkcQApDOemRBaMF-uD7Q3jjQJ-q2BrVJf9zI/edit?slide=id.g283761c3fb5_0_5#slide=id.g283761c3fb5_0_5)
-
 ## 🛠️ Cara Install dan Menjalankan
 
 ### Persyaratan:
