@@ -1,12 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap");
 
 @import "tailwindcss";
 @theme {
   --font-*: initial;
   --font-poppins: "Poppins", sans-serif;
   --font-lato: "lato", sans-serif;
+  --font-OpenSans: "OpenSans", sans-serif;
+  --font-DMSans: "DMSans", sans-serif;
 
   /* color theme */
   --color-primary: #3ecf4c;
