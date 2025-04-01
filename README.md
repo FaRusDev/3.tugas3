@@ -14,7 +14,7 @@ Implementasi slicing desain Figma ke HTML/CSS untuk tugas ke-3 Bootcamp Hariseni
 
 ## 🖥️ Preview
 
-![Preview Aplikasi](public/preview.jpg)
+![Preview Aplikasi]()
 
 ## 🛠️ Cara Install dan Menjalankan
 
